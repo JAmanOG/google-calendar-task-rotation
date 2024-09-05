@@ -24,8 +24,8 @@ Before running the script, ensure you have the following:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/JAmanOG/Adding-rotational-Task-to-GoogleCalender
-cd Adding-rotational-Task-to-GoogleCalender
+git clone https://github.com/JAmanOG/google-calendar-task-rotation
+cd google-calendar-task-rotation
 ```
 
 ### 2. Create a Virtual Environment
